@@ -1,0 +1,6 @@
+.isBlue{
+    background: -webkit-linear-gradient(left, rgba(231,240,255,1), rgba(232,241,255,0.47));
+}
+.isWhite {
+    background-color: white;
+}
